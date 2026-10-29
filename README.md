@@ -21,6 +21,7 @@ Smart speakers generally use microphones to capture voice commands, processors a
 5. Command Processing: The voice assistant identifies the required action and retrieves information or sends a command to a connected service.
 6. Response Generation: The system prepares a suitable response.
 7. Voice Output: Text-to-speech technology converts the response into spoken audio, which is played through the speaker.
+                   <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c345ca11-97c8-469c-8c8c-31aa2d13c50a" />
 
 ## RESULT:
 Thus, the application of Artificial Intelligence in smart speakers was studied. The roles of speech recognition, NLP, machine learning, and voice assistant technology in enabling voice-controlled interaction and smart home automation were understood.
